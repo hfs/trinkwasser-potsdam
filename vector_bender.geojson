@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "FID": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 42.773710350155966, 217.210999233611119 ], [ 12.933785871548768, 52.493474289040918 ] ] } },
+{ "type": "Feature", "properties": { "FID": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ 132.98759286370921, 113.861787650294957 ], [ 13.074371516704559, 52.400338900628853 ] ] } },
+{ "type": "Feature", "properties": { "FID": 2 }, "geometry": { "type": "LineString", "coordinates": [ [ 102.995975163541829, 158.073147628562992 ], [ 13.027197693361268, 52.440498833180222 ] ] } },
+{ "type": "Feature", "properties": { "FID": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ 168.353774193257181, 100.22688476857239 ], [ 13.1281578540802, 52.388731143853605 ] ] } },
+{ "type": "Feature", "properties": { "FID": 4 }, "geometry": { "type": "LineString", "coordinates": [ [ 152.003925142353125, 74.614794754880364 ], [ 13.104490041732788, 52.364649884198563 ] ] } },
+{ "type": "Feature", "properties": { "FID": 5 }, "geometry": { "type": "LineString", "coordinates": [ [ 144.75820296393465, 63.4335907810853 ], [ 13.094010651111603, 52.354112353695953 ] ] } },
+{ "type": "Feature", "properties": { "FID": 6 }, "geometry": { "type": "LineString", "coordinates": [ [ 163.939948235015038, 196.394362305638253 ], [ 13.117712111014306, 52.477327592526422 ] ] } },
+{ "type": "Feature", "properties": { "FID": 7 }, "geometry": { "type": "LineString", "coordinates": [ [ 158.971746729890356, 147.74574290515045 ], [ 13.112079023269114, 52.432315735577845 ] ] } },
+{ "type": "Feature", "properties": { "FID": 8 }, "geometry": { "type": "LineString", "coordinates": [ [ 180.17915026283265, 70.461355248907878 ], [ 13.147060320328016, 52.361540668923077 ] ] } },
+{ "type": "Feature", "properties": { "FID": 9 }, "geometry": { "type": "LineString", "coordinates": [ [ 156.79773138384914, 126.798255957216313 ], [ 13.109624383314976, 52.412941468592955 ] ] } },
+{ "type": "Feature", "properties": { "FID": 10 }, "geometry": { "type": "LineString", "coordinates": [ [ 102.788311802262001, 57.147462900717656 ], [ 13.03103998252034, 52.347461423377844 ] ] } },
+{ "type": "Feature", "properties": { "FID": 11 }, "geometry": { "type": "LineString", "coordinates": [ [ 49.481440893208593, 165.782352543358542 ], [ 12.945860019958809, 52.446091078084919 ] ] } }
+]
+}
